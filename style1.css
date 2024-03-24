@@ -88,7 +88,7 @@ nav ul li a:hover {
 .box-1 {
     width: 100vw;
     height: 80vh;
-    background-image: linear-gradient(rgba(15, 27, 48, 0.7), rgba(15, 27, 48, 0.7)), url(image%20folder/carousel-1.jpg);
+    background-image: linear-gradient(rgba(15, 27, 48, 0.7), rgba(15, 27, 48, 0.7)), url(img/carousel-1.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
